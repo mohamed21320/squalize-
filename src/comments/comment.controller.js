@@ -1,4 +1,3 @@
-import { where } from "sequelize"
 import commentModel from "../../DB/models/comment.model.js"
 
 
