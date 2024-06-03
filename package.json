@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.8",
+    "sequelize": "^6.37.3"
+  },
+  "name": "test6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "type": "module",
+  "scripts": {
+    "satrt": "node index.js"
+  },
+  "engines": {
+    "node": "20.12.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
